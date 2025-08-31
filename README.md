@@ -6,15 +6,20 @@
 <img src="https://img.shields.io/badge/MacOS->=14-green">
 </p>
 
-FancyTool 是一款优雅高效的 Mac 菜单栏应用，您可以在这里免费下载使用。
+<p align="center">
+<a href="https://www.producthunt.com/products/fancytool?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-fancytool" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1008774&theme=light&t=1756283739180" alt="FancyTool - FancyTool&#0032;is&#0032;an&#0032;mac&#0032;menu&#0032;bar&#0032;application | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+</p>
+
+FancyTool 是一款优雅高效的 Mac 菜单栏美化工具，您可以在这里免费下载使用。
+
 
 #### 核心功能亮点
 
 * 🚀 智能CPU动态图标
 
-  > 让性能可视化！
-  将任何GIF图片设置为你的菜单栏图标，它的播放速度会实时响应你的CPU使用率。
-  空闲时悠然自得，高负荷时急速狂飙，用最酷的方式监控系统状态。
+  > 让性能可视化
+  将任何GIF图片设置为你的菜单栏图标，它的播放速度会实时响应你的CPU使用率
+  空闲时悠然自得，高负荷时急速狂飙，用最酷的方式监控系统状态
   支持完全自定义上传，打造你的专属动画！
 
 
@@ -48,7 +53,7 @@ FancyTool 是一款优雅高效的 Mac 菜单栏应用，您可以在这里免�
 #### 技术特点
 
 * 原生 Swift 开发，完美兼容最新系统
-* 轻量级设计，资源占用极低
+* 轻量级设计，资源占用极低 (正在努力尝试让资源占用更低)
 * 直观易用的界面，无需学习成本
 * 定期更新，持续改进功能和体验
 
@@ -65,7 +70,7 @@ FancyTool 是一款优雅高效的 Mac 菜单栏应用，您可以在这里免�
 
 #### 赞赏
 
-如果觉得有用，可以请我喝杯咖啡☕️
+软件是完全免费的，然是如果您觉得有用，可以请我喝杯咖啡☕️
 
 <p align="center">
 <img src="/doc/1.JPG" width="400">
