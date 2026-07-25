@@ -33,7 +33,9 @@ FancyTool 是一个菜单栏软件，启动之后，菜单栏会出现一个图�
 #### 赞赏
 
 软件开源免费，如果您觉得有用，可以请我喝杯咖啡☕️
+
 这是我的爱发电地址: [https://www.ifdian.net/a/m-finder](https://www.ifdian.net/a/m-finder)
+
 <p align="center">
 <img src="/doc/1.JPG" width="400">
 </p>
