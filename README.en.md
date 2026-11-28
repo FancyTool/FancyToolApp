@@ -18,11 +18,13 @@
 
 FancyTool brings colorful text, clipboard history, system monitoring, quick controls, and screenshots to your menu bar, along with animated icons and a status dog. Enable the modules you need for a lightweight, practical Mac utility with a little personality.
 
-## Version 1.0.17
+## Version 1.0.18
 
-- Optimized menu bar rendering in Monitor, Duo, and Texter by reusing images and reducing updates when content or dimensions have not changed.
-- Improved static icon layer cleanup, display-scale caching for animated icons, and update handling for shimmer, borders, and rounded screen corners.
-- Refined Duo's battery layout and slider fill alignment. The charging bolt remains; the plug marker is no longer shown when connected to power without charging.
+- Reused menu bar renderers in Monitor and Duo to reduce repeated setup and drawing work.
+- Moved screenshot composition, PNG encoding, and saving to the background. Unannotated images encode directly, and annotation dragging redraws only affected areas.
+- Skipped unchanged clipboard history writes, cleaned up media for removed records, and released caches under memory pressure or when the module is disabled.
+- Prepared animated icons on demand, decoded frames in the background, canceled obsolete loads when switching, and released rebuildable frame caches under memory pressure.
+- Fixed Auto Paste turning off during permission requests and improved the multiline permission hint layout.
 
 ## Screenshots
 
